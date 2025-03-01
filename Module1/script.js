@@ -28,3 +28,7 @@ objectType.father = {
 }
 console.log(objectType);
 console.log(objectType.father.name);
+function firstFunction() {
+    console.log("This is first function");
+}
+firstFunction();
