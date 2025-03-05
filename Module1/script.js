@@ -32,3 +32,4 @@ function firstFunction() {
     console.log("This is first function");
 }
 firstFunction();
+console.log("This is first function");
